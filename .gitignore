@@ -1,0 +1,7 @@
+.Rproj.user/
+.Rhistory
+.RData
+*.Rproj
+shiny_master_data.csv
+.vscode/
+__pycache__/
